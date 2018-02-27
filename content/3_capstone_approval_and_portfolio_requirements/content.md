@@ -26,3 +26,4 @@ Your biggest strength as an applicant is a track record of usable, aesthetically
 As a professional data scientist, it’s important to know how to receive and consider critical feedback.
 
 Remember not to take critical feedback personally! It’s easy to get attached to your own ideas, but someone reviewing your work won’t have the same affinity for it that you do. If criticism ever seems harsh, remember that every critique is an opportunity to improve, learn, and grow as a developer. Courtesy in response to critical feedback is a clear sign of professionalism.
+

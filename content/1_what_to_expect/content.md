@@ -2,6 +2,7 @@
 time: 5
 type: written content
 name: What to expect
+
 ---
 
 Over the next six months, you’re going to cover a lot of ground as you gain the skills to land your first job as a data scientist. It’s going to be as challenging as it is exciting. Here’s what to expect.
@@ -57,3 +58,4 @@ After you’ve completed your coursework, you’ll begin an intensive job search
 #### Keep your eye on the prize
 
 Learning full stack web development in six months is a tall order. Even with all the resources that Thinkful puts in your hands, you are going to have moments of frustration. When you’re feeling particularly challenged, remember why you’re putting in all this work: to land your first job as a software engineer, and for the feeling of pride you will have by gaining a valuable set of skills.
+
