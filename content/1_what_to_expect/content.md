@@ -2,6 +2,7 @@
 time: 5
 type: written content
 name: What to expect
+
 ---
 
 Over the next six months, you’re going to cover a lot of ground as you gain the skills to land your first job as a data scientist. It’s going to be as challenging as it is exciting. Here’s what to expect.
