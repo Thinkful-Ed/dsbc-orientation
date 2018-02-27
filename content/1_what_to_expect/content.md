@@ -57,4 +57,3 @@ After you’ve completed your coursework, you’ll begin an intensive job search
 #### Keep your eye on the prize
 
 Learning full stack web development in six months is a tall order. Even with all the resources that Thinkful puts in your hands, you are going to have moments of frustration. When you’re feeling particularly challenged, remember why you’re putting in all this work: to land your first job as a software engineer, and for the feeling of pride you will have by gaining a valuable set of skills.
-
