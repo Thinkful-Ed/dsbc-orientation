@@ -2,9 +2,8 @@
     <content>
         <assignment src="1_what_to_expect" uuid="0f9c7b80-1bee-11e8-970c-47c48debd7e1"></assignment>
         <assignment src="2_working_with_your_mentor" uuid="0f9ca290-1bee-11e8-970c-47c48debd7e1"></assignment>
-        <assignment src="3_capstone_approval_and_portfolio_requirements" uuid="0f9cc9a0-1bee-11e8-970c-47c48debd7e1"></assignment>
-        <assignment src="4_getting_help_between_sessions" uuid="0f9cf0b0-1bee-11e8-970c-47c48debd7e1"></assignment>
-        <assignment src="5_weekly_reflections" uuid="0f9cf0b1-1bee-11e8-970c-47c48debd7e1"></assignment>
-        <assignment src="6_learning_contract" uuid="0f9d17c0-1bee-11e8-970c-47c48debd7e1"></assignment>
+        <assignment src="3_getting_help_between_sessions" uuid="0f9cf0b0-1bee-11e8-970c-47c48debd7e1"></assignment>
+        <assignment src="4_weekly_reflections" uuid="0f9cf0b1-1bee-11e8-970c-47c48debd7e1"></assignment>
+        <assignment src="5_learning_contract" uuid="0f9d17c0-1bee-11e8-970c-47c48debd7e1"></assignment>
     </content>
 </course>

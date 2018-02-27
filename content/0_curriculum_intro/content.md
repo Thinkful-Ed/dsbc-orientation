@@ -6,9 +6,9 @@ author: Benjamin White
 
 ---
 
-At Thinkful, we’ve helped thousands of people gain new skills to advance their careers and so we’ve learned a thing or two about how students can best use their time to succeed. Before getting to the business of data science or or even meeting your mentor, we ask that you carefully read through the following introduction to learn the best strategies for structuring your learning experience.
+At Thinkful, we’ve helped thousands of people gain new skills to advance their careers and so we’ve learned a thing or two about how students can best use their time to succeed. Before getting to the business of data science or or even meeting your mentor, we ask that you carefully read through these orientation materials to learn the best strategies for structuring your learning experience.
 
-We'll discuss how to get the most out of 1-on-1 mentorship and our learning materials, and how the entire educational experience fits together. As you go through this, write your plans and goals on a piece of paper or in a doc. These will evolve naturally over time, but let's get them on paper now.
+We'll discuss how to get the most out of 1-on-1 mentorship and our learning materials and how the entire educational experience fits together. As you go through this, write your plans and goals on a piece of paper or in a doc. These will evolve naturally over time, but let's get them on paper now.
 
 Focus on answering these questions:
 

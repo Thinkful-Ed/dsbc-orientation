@@ -2,7 +2,6 @@
 time: 5
 type: written content
 name: Weekly reflections
-author: Varun Rajan
 
 ---
 
@@ -18,9 +17,10 @@ Each Monday, you’ll be required to fill out a few questions to think proactive
 - Do you feel good about your progress last week?
 
 #### Is this mandatory?
+
 Short answer: yes. Reflections are mandatory.
 
 Your program manager will read your reflections each week to make sure you’re getting the support and tools you need to be successful. Our PMs are vigilant! They read every response and will know if you haven’t filled yours out. Expect to hear from them if they haven’t seen your response by the end of the week.
 
-Don’t take this lightly: Understanding your own progress is crucial to your success in learning web development. It’s incredibly valuable to understand your strengths and weaknesses as a developer. And it shouldn’t take you more than ten minutes every week!
+Don’t take this lightly: Understanding your own progress is crucial to your success in learning data science. It’s incredibly valuable to understand your strengths and weaknesses, and it shouldn’t take you more than 10 minutes every week!
 
