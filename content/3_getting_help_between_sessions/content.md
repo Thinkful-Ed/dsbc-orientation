@@ -34,7 +34,7 @@ We can say with 99.99% certainty that you will get stuck at different times duri
 
 When you get stuck: stop, take a step back, try to articulate the problem first to yourself, and then Google your description of the problem. There’s a good chance that other people have had similar difficulties, and you may find an answer online (especially on [Stack Overflow](http://stackoverflow.com/)).
 
-**Being able to hunt down a solution is a key professional skill for developers.** At times during the Bootcamp, you will find that you don't know the answer to a particular drill or the implementation of a certain feature. While you can always use the support mentioned above, we strongly encourage you to hone your researching skills as well. It may sound silly, but many experienced data scientists will tell you that knowing how to Google is essential to their success.
+**Being able to hunt down a solution is a key professional skill for data scientists.** At times during the Bootcamp, you will find that you don't know the answer to a particular drill or the implementation of a certain feature. While you can always use the support mentioned above, we strongly encourage you to hone your researching skills as well. It may sound silly, but many experienced data scientists will tell you that knowing how to Google is essential to their success.
 
 But if after 30 minutes you’re making no progress, then wait no longer to take advantage of Thinkful’s resources and reach out for help. If you have a session in the next day, you can bring up your problem with your mentor and pair on it. You can also bring your problem to a daily [Q&A session](http://www.thinkful.com/open-sessions/qa-sessions) and get help there.
 
