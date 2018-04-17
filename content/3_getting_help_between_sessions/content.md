@@ -9,7 +9,7 @@ Your mentor is an amazing resource, but certainly not the only one available. Th
 
 ## Get help from mentors and students on Slack
 
-Make sure to join our community on [Slack](https://thinkful-students.slack.com/), where you can get access to help in between mentor sessions, as well as chat with students and mentors about everything from the tech industry to the latest episode of Game of Thrones.
+Make sure to join our community on [Slack](https://thinkful.slack.com/), where you can get access to help in between mentor sessions, as well as chat with students and mentors about everything from the tech industry to the latest episode of Game of Thrones.
 
 Blanche Cohen, a Thinkful mentor, says, "Ask for help as soon as possible. Don't feel awkward or ashamed that you don't get it.” Through Slack, you have access to hundreds of mentors and students who are ready to help. You can always reach out to your mentor over email, but you'll often get a faster response in Slack thanks to the size of this community. If a mentor is helping another student, be patient – it can take 10 or 15 minutes to get help in Slack depending on time of day.
 
