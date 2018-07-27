@@ -1,0 +1,29 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: thinkful/tf-curric:latest
+        auth:
+          username: $DOCKER_USERNAME
+          password: $DOCKER_PASSWORD
+    steps:
+      - checkout
+      - run:
+          name: Build curriculum
+          command: source /build.sh
+      - run:
+          name: Deploy curriculum to production
+          command: |
+            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+              source /deploy.sh production
+            fi
+            if [ "${CIRCLE_BRANCH}" == "preview" ]; then
+              source /deploy.sh preview
+            fi
+
+workflows:
+  version: 2
+  build_and_deploy:
+    jobs:
+      - build:
+          context: default
